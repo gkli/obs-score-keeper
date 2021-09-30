@@ -1,0 +1,23 @@
+{
+  "Periods": [
+    {
+      "DurationInMinutes": 40,
+      "Name": "1st Half",
+      "IncludeInTotalDurationCount": true
+    },
+    {
+      "DurationInMinutes": 10,
+      "Name": "break",
+      "IncludeInTotalDurationCount": false
+    },
+    {
+      "DurationInMinutes": 40,
+      "Name": "2nd Half",
+      "IncludeInTotalDurationCount": true
+    }
+  ],
+  "ScoreFilePath": "C:\\Broadcast\\Runtime\\score.txt",
+  "TimeFilePath": "C:\\Broadcast\\Runtime\\clock.txt",
+  "ScoreChangedImageSrcPath": "C:\\Broadcast\\Soccer\\Goal\\goal_hickup.gif",
+  "ScoreChangedImageDstPath": "C:\\Broadcast\\Runtime\\goal.gif"
+}
